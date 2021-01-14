@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dojo-diner/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/dojo-diner/static/js/main.5fb7758e.chunk.js",
+    "main.js.map": "/dojo-diner/static/js/main.5fb7758e.chunk.js.map",
+    "runtime-main.js": "/dojo-diner/static/js/runtime-main.82b5db87.js",
+    "runtime-main.js.map": "/dojo-diner/static/js/runtime-main.82b5db87.js.map",
+    "static/js/2.2d15ae48.chunk.js": "/dojo-diner/static/js/2.2d15ae48.chunk.js",
+    "static/js/2.2d15ae48.chunk.js.map": "/dojo-diner/static/js/2.2d15ae48.chunk.js.map",
+    "static/js/3.4889e1a9.chunk.js": "/dojo-diner/static/js/3.4889e1a9.chunk.js",
+    "static/js/3.4889e1a9.chunk.js.map": "/dojo-diner/static/js/3.4889e1a9.chunk.js.map",
+    "index.html": "/dojo-diner/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/dojo-diner/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2d15ae48.chunk.js.LICENSE.txt": "/dojo-diner/static/js/2.2d15ae48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b5db87.js",
+    "static/js/2.2d15ae48.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5fb7758e.chunk.js"
+  ]
+}
